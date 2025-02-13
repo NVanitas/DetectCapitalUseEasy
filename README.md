@@ -32,20 +32,6 @@ public class Solution {
 }
 ```
 
-## Como Executar
-
-Para rodar o código, utilize um compilador C# ou rode em um ambiente .NET:
-
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/NVanitas/DetectCapitalCSharp.git
-   cd DetectCapitalCSharp
-   ```
-2. Compile e execute o código:
-   ```sh
-   dotnet run
-   ```
-
 ## Exemplo de Entrada e Saída
 
 | Entrada    | Saída   |
